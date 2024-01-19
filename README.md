@@ -2,3 +2,7 @@
 2.Урок - https://www.youtube.com/watch?v=uPYUgipiFcM
 3.Урок - https://www.youtube.com/watch?v=cXAUxbu6X2E
 4.Урок - https://www.youtube.com/watch?v=8Gu40PFzOHI
+
+---
+
+Вообще в 4 уроке делается через карточки(ul, li), Жека делал через div-ы.
