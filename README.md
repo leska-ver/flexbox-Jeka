@@ -6,3 +6,7 @@
 ---
 
 Вообще в 4 уроке делается через карточки(ul, li), Жека делал через div-ы.
+
+---
+
+Сайт 4урока - https://leska-ver.github.io/flexbox-Jeka/4-flexbox/index.html
