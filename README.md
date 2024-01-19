@@ -10,3 +10,7 @@
 ---
 
 Сайт 4урока - https://leska-ver.github.io/flexbox-Jeka/4-flexbox/index.html
+
+---
+
+Кодепен резины - https://codepen.io/tmeebphp-the-sans/pen/BabRxWV
